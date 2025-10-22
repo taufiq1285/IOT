@@ -1,0 +1,4 @@
+Format,Size (MB),Write (ms),Read (ms),Query (ms),Column Read (ms)
+CSV,0.59,36.86,258.96,33.41,19.59
+JSON,1.57,32.91,211.26,96.19,91.58
+Parquet,0.06,24.18,356.87,21.27,21.94

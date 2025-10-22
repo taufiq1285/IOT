@@ -1,0 +1,9 @@
+building,room_id,room_type,high_temp_count,avg_temp,max_temp,avg_occupancy
+Lab Kebidanan Mega,LAB_PNC,Lab Praktik,224,31.89,35.0,37.24
+Lab Kebidanan Mega,LAB_INC,Lab Praktik,222,31.4,34.03,33.25
+Lab Kebidanan Mega,LAB_BBL,Lab Praktik,219,30.12,33.08,22.1
+Lab Kebidanan Mega,LAB_KTD,Lab Praktik,219,30.89,34.02,30.07
+Lab Kebidanan Mega,LAB_ANC,Lab Praktik,212,30.62,33.48,26.52
+Lab Kebidanan Mega,LAB_ANAK,Lab Praktik,7,28.27,28.67,15.29
+Lab Kebidanan Mega,LAB_KONSELING,Lab Konseling,5,28.54,28.92,18.4
+Lab Kebidanan Mega,LAB_KOMUNITAS,Lab Praktik,1,28.83,28.83,20.0
